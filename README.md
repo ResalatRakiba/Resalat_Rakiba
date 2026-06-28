@@ -21,23 +21,42 @@
 
 🚀 I believe that combining technical expertise with effective communication enables me to create impactful digital experiences and collaborate successfully on innovative projects.
 
-### 🌱 Currently Learning
+## 💼 Currently Working With
 
-- JavaScript
-- C++
-- Data Structures & Algorithms
-- Responsive Web Design
+- HTML5
+- CSS3
+- Java
 - Git & GitHub
-
-### 🎯 Goals
-
-- Become a skilled Software Engineer
-- Build impactful real-world projects
-- Contribute to Open Source
-- Continuously learn new technologies
+- Responsive Web Design
 
 ---
 
+## 🌱 Currently Learning
+
+- JavaScript
+- Advanced Java
+- UI/UX Design with Figma
+- Modern Front-End Development
+- Data Structures & Algorithms
+
+---
+
+## 🎯 Goals
+
+- Become a Skilled Front-End Developer
+- Build Modern & Responsive Websites
+- Strengthen My Programming & Problem-Solving Skills
+- Gain Real-World Development Experience
+- Contribute to Open Source Projects
+- Keep Learning New Technologies
+
+- ## 🚀 Current Focus
+
+- 💻 Building Responsive Websites with HTML & CSS
+- ☕ Developing Projects with Java
+- 🌱 Learning JavaScript & Modern Web Development
+- 🎨 Designing Interfaces with Figma
+- 📂 Managing Projects using Git & GitHub
 # 💻 Tech Stack
 
 ### 💻 Languages
