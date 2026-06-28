@@ -2,104 +2,137 @@
 <h3 align="center">Computer Science & Engineering Student | Front-End Enthusiast | Media Presenter & Anchor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Front-End+Web+Developer;Media+Presenter+%26+Anchor;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Front-End+Developer;Media+Presenter+%26+Anchor;Always+Learning+New+Things!" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ResalatRakiba&label=Profile%20Views&color=6C63FF&style=flat" />
 </p>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-I am a **Computer Science and Engineering (CSE) student** passionate about technology, creativity, and continuous learning. I enjoy building clean, responsive websites using **HTML** and **CSS** while expanding my knowledge of modern web development and programming.
+🎓 I'm a **Computer Science & Engineering (CSE) Student** passionate about technology, creativity, and continuous learning.
 
-Beyond coding, I am an experienced **Media Presenter** and **Anchor** who enjoys public speaking, hosting events, and connecting with diverse audiences. These experiences have strengthened my communication, leadership, and teamwork skills.
+💻 I enjoy designing and building **clean, responsive websites** using **HTML** and **CSS**, while continuously improving my programming and problem-solving skills.
 
-I believe that combining technical expertise with effective communication allows me to collaborate better, solve problems creatively, and create meaningful digital experiences.
+🎤 Beyond coding, I work as a **Media Presenter** and **Anchor**, where I develop strong communication, leadership, and public speaking skills through hosting events and engaging with diverse audiences.
 
-🌱 **Currently Learning:** JavaScript, C++, Data Structures & Algorithms
+🚀 I believe that combining technical expertise with effective communication enables me to create impactful digital experiences and collaborate successfully on innovative projects.
 
-🎯 **Goal:** To become a skilled Software Engineer and contribute to impactful real-world projects.
+### 🌱 Currently Learning
+
+- JavaScript
+- C++
+- Data Structures & Algorithms
+- Responsive Web Design
+- Git & GitHub
+
+### 🎯 Goals
+
+- Become a skilled Software Engineer
+- Build impactful real-world projects
+- Contribute to Open Source
+- Continuously learn new technologies
 
 ---
 
-## 🚀 Tech Stack
+# 💻 Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 </p>
 
-### 🎨 Front-End
+### Front-End
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### 🛠️ Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ResalatRakiba&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResalatRakiba&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=ResalatRakiba&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ResalatRakiba&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ResalatRakiba&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ramima-rakiba/" target="_blank">
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ResalatRakiba&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/ramima-rakiba/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="mailto:ramimarakiba@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<!-- Replace with your actual Facebook profile link -->
+<a href="https://facebook.com/yourusername">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 📈 Profile Views
+# ✨ Quote
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=ResalatRakiba&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+> *"Learning never exhausts the mind. Every project is another step toward becoming a better developer."*
 
 ---
 
-## ✨ Fun Fact
+<div align="center">
 
-> 🎤 I love speaking in front of audiences just as much as I enjoy writing code. Whether it's hosting an event or building a responsive website, I always strive to communicate ideas clearly and create meaningful experiences.
+### ⭐ Thanks for visiting my profile!
 
----
+*"Code with passion, speak with confidence, and never stop learning."* 🚀
 
-<p align="center">
-⭐ Thanks for visiting my profile! Have a great day! ⭐
-</p>
+</div>
