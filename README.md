@@ -40,37 +40,43 @@
 
 # 💻 Tech Stack
 
-### Languages
+### 💻 Languages
+- **C** – Basic Programming
+- **C++** – Object-Oriented Programming & Data Structures
+- **Java** – Academic Projects & Problem Solving
+- **Python** – Basic Programming & Automation
+- **JavaScript** – Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
-</p>
-
-### Front-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+### 🎨 Front-End
+- **HTML5** – Semantic & Responsive Web Structure
+- **CSS3** – Modern UI Design, Flexbox & Grid
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ResalatRakiba&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResalatRakiba&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ---
+
+### 🛠️ Tools & Technologies
+- **Git** – Version Control
+- **GitHub** – Code Hosting & Collaboration
+- **Visual Studio Code** – Primary Code Editor
+- **Figma** – UI/UX Design & Prototyping
+- **Google Fonts** – Modern Web Typography
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" />
+</p>
 
 # 🔥 GitHub Streak
 
