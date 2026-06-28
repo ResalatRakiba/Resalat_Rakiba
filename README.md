@@ -41,41 +41,19 @@
 # 💻 Tech Stack
 
 ### 💻 Languages
-- **C** – Basic Programming
-- **C++** – Object-Oriented Programming & Data Structures
-- **Java** – Academic Projects & Problem Solving
-- **Python** – Basic Programming & Automation
-- **JavaScript** – Currently Learning
-
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 </p>
 
----
-
-### 🎨 Front-End
-- **HTML5** – Semantic & Responsive Web Structure
-- **CSS3** – Modern UI Design, Flexbox & Grid
-
+### 🌐 Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
----
-
-### 🛠️ Tools & Technologies
-- **Git** – Version Control
-- **GitHub** – Code Hosting & Collaboration
-- **Visual Studio Code** – Primary Code Editor
-- **Figma** – UI/UX Design & Prototyping
-- **Google Fonts** – Modern Web Typography
-
+### 🛠️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" />
 </p>
 
 # 🔥 GitHub Streak
