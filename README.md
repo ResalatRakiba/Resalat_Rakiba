@@ -27,7 +27,7 @@
 
 - HTML5
 - CSS3
-- Java
+- Javascript
 - Git & GitHub
 - Responsive Web Design
 
